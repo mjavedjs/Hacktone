@@ -37,7 +37,7 @@
 }
 .main-imgs{
  display:flex;
- gap:5vw;
+ gap:2vw;
  justify-content:space-between;
  align-items:center;
  flex-wrap:wrap;
@@ -70,8 +70,9 @@ footer{
     align-items:center;
     padding:5vw  10vw;
     justify-content:space-around;
-    flex-wrap: wrap;
+    flex-wrap:wrap;
 }
 li{
     list-style:none;
 }
+
